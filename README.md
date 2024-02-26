@@ -1,4 +1,4 @@
 # wassup2
-study
+이스트소프트 KDT WASSUP AI서비스기획과정 2기
 
-test
+PUSH 연습 해보자
