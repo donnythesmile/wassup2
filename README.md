@@ -1,30 +1,27 @@
-<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
+<a href="https://donnythesmile.netlify.app/">
+<img align="right" src="https://postfiles.pstatic.net/MjAyNDAyMjdfMTk3/MDAxNzA5MDM3MjQ5MDg1.T9O0PHq5yauQk0U7bIkCB9K4PhaUgqix2Z58i4vYJf8g.76DWDwlxJ20G5iwF_MUIW8_bIEsiRprUAsoS0lfty3Ug.JPEG/WEB.jpg?type=w773" width="300"/>
+</a>
 
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>Hi, I'm Product Manager Donny <img src="/dataset/profile.png" height="180"></h1>
+<a href="https://oreumi.notion.site/ccb14e20953f4059a49e0aac05ce80f9">
+<img align="right" src="https://postfiles.pstatic.net/MjAyNDAyMjdfMTA2/MDAxNzA5MDM3MjQ3MjIz.qC-DkbMScOyQQBu4MvS0s3tq09KcdAGaJmdTnV8KbJgg.ibUfDnTyMirTtWZ6wf3a-G4VMJPpJHknV8Irrkgwl6og.JPEG/notion.jpg?type=w773" width="300"/>
+</a>
+
+<h1>  <img src="https://donnythesmile.netlify.app/img/about.png" height="180"><br>
+<img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/>  Hi, I'm Product Manager Donny
+</h1>
 
 <p>
-  <em>
-    <h3>
-    Content Creator at
-      <a href="https://www.youtube.com/c/%EB%93%9C%EB%A6%BC%EC%BD%94%EB%94%A9by%EC%97%98%EB%A6%AC">
-        드림코딩 by 엘리 <img src="https://user-images.githubusercontent.com/1569988/159397141-21463bc2-2acf-416b-aa15-235664556f34.png" height="30px" />
-      </a>
-    </h3>
-  </em>
-  <em>
-  <h3>
-    Instructor at 
-    <a href="https://academy.dream-coding.com/">
-      Dream Coding Academy 
-      <img src="https://user-images.githubusercontent.com/1569988/159411473-79b779c5-b91f-4ded-9235-1f187e1ebec2.svg" height="30px"/>
-    </a>
-  </h3>
-    </em>
-  </em>
-</p>
+<h3>Profile</h3> 
+<pre><code>안녕하세요 저는 Product Manager 주성돈입니다.
+해당 리포에서는 이스트소프트 WASSUP AI 서비스 기획자 과정 2기에서 진행한 실습을 업로드합니다.
+<br>
+Hi, I'm Product Manager Donny.
+In this repo, I will upload the training course practice conducted by Estsoft WASSUP AI Product Manager Course.
+<br>
+</code></pre>
 
 <br />
-<h2> My tech stack 📚 </h2>
+<h2> My tech Knowledge 📚 </h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
