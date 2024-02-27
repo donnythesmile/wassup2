@@ -11,7 +11,7 @@
 </h1>
 
 <p>
-<h3>Profile</h3> 
+<h3>Introduce</h3> 
 <pre><code>안녕하세요 저는 Product Manager 주성돈입니다.
 해당 리포에서는 이스트소프트 WASSUP AI 서비스 기획자 과정 2기에서 진행한 실습을 업로드합니다.
 <br>
