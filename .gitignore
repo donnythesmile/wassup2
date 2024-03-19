@@ -9,6 +9,9 @@ __pycache__/
 #dataset
 dataset/
 
+#sample
+Data_Collection/sample
+
 #python output
 python_grammar/output
 
